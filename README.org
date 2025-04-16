@@ -1,0 +1,14 @@
+#+TITLE: FreeRTOS-OPG2
+#+AUTHOR: Yuna00
+#+DATE: 2025-04-16
+
+* Overview
+
+Dette projekt er et mashup af alt (eller ihvertfald det meste) af hvad jeg har lært om FreeRTOS.
+
+* Journal
+
+
+* Usage
+
+* License
